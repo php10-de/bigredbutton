@@ -1,0 +1,10 @@
+{
+  "name": "php10-de/bigredbutton",
+  "description": "The Big Red Button",
+  "type": "library",
+  "license": "proprietary",
+  "version": "1.0.0",
+  "autoload": {
+    "files": ["ioncube/dispatcher.php"]
+  }
+}
